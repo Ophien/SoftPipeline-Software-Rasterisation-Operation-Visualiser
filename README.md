@@ -1,4 +1,4 @@
-# -SoftPipeline-Software-Rasterisation-Operation-Visualiser
+# SoftPipeline-Software-Rasterisation-Operation-Visualiser
 This project was realised to allow to visualize how raster operations are performed.
 
 It was coded in C++ using OpenGL. The raster operation is performed by drawing pixels in a GL 2D texture. It implements a full render pipeline described as follows:
